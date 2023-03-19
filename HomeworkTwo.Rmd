@@ -1,6 +1,6 @@
 ---
 title: "Homework 2"
-author: "Write Your Name and Student ID Here!"
+author: "amirarsalan faghani 21080056!"
 output: pdf_document
 ---
 
